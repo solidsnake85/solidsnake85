@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @solidsnake85 # Matt
 - 👀 I’m interested in ...music, technology, videogames, modular synthesis
 - 🌱 I’m currently learning ...Python and C++
-- 💞️ I’m looking to collaborate on ...anything Pyhton-related!
+- 💞️ I’m looking to collaborate on ...anything Python-related!
 - 📫 How to reach me ...
 
 <!---
